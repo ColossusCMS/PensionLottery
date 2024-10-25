@@ -11,6 +11,10 @@ namespace PensionLottery
             InitializeComponent();
             this.Load += TabPage1_Load;
             this.Text = Application.ProductName + " v " + Application.ProductVersion;
+            this.StartPosition = FormStartPosition.Manual;
+            int x = (Screen.PrimaryScreen.Bounds.Width / 2) - (this.Width / 2);
+            int y = (Screen.PrimaryScreen.Bounds.Height / 2) - (this.Height / 2);
+            this.Location = new System.Drawing.Point(x, y);
         }
 
         private void Form1_KeyDown(object sender, KeyEventArgs e)
