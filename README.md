@@ -9,6 +9,10 @@
 연금복권720+ 번호 추첨기(이하 번호 추첨기)는 0 ~ 9의 숫자 중에서 하나의 임의의 숫자를 추첨해 총 6자리의 숫자를 뽑아내는 프로그램입니다.
 연금복권720+의 추첨 방식과 동일하게 각 자리의 숫자는 독립시행으로 추첨합니다.
 ## 3. 프로그램 스크린샷
+<img src="https://github.com/user-attachments/assets/b445bc57-3ea9-45ce-8096-d1146d3ceb19" width="500" alt="프로그램 실행" />
+<img src="https://github.com/user-attachments/assets/3dc9c47b-ecb5-4824-a32a-af605916d9b8" width="500" alt="번호 추첨 완료" />
+<img src="https://github.com/user-attachments/assets/4f5888dd-e6df-420b-bf6f-f70f0f308fae" width="500" alt="번호 추첨 결과" />
+<img src="https://github.com/user-attachments/assets/810ee1cd-c10c-4d8c-87c4-0112b00079b1" width="500" alt="번호 추첨 이력 데이터" />
 
 ## 4. 주요기능
 1. 임의의 숫자 추첨 (총 6자리)
@@ -32,5 +36,7 @@
 1. 프로그램 실행 시 현재 주 모니터로 선택된 디스플레이의 정가운데에 창이 나타나도록 설정함
 
 ## 6. 패치 예정 및 추후 방향성, 개선점 목록
+
 1. 프로그램 종료 시 종료할 것인지 확인하는 팝업 생성
 ## 7. 비고
+
